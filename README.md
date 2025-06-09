@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Gabriel "Biel" Coutinho</h1>
+<h1 align="center">👨‍💻 Gabriel Coutinho</h1>
 <p align="center">
   <i>“Transformando conhecimento em soluções criativas para o mundo real.”</i>
 </p>
