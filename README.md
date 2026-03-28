@@ -9,7 +9,7 @@
 
 Olá! Sou **Gabriel Coutinho**, mas pode me chamar de **Biel**.  
 Atualmente, curso **Técnico em Informática no Senac** e estou me aprofundando em **JavaScript** para me tornar um desenvolvedor cada vez mais completo.  
-Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, hardware e assistência técnica de eletrodomésticos.  
+Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, hardware.  
 Gosto de transformar ideias em sistemas úteis, com interfaces bonitas e funcionais.
 
 ---
