@@ -7,8 +7,8 @@
 
 ## 🔧 Sobre mim
 
-Olá! Sou **Gabriel Coutinho**, mas pode me chamar de **Biel**.  
-Atualmente, curso **Técnico em Informática no Senac** e estou me aprofundando em **JavaScript** para me tornar um desenvolvedor cada vez mais completo.  
+Olá! Sou **Gabriel Coutinho**.  
+Atualmente, curso Ciência da Computação na UNICID, após ter concluído minha formação como Técnico em Informática pelo Senac.
 Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, hardware.  
 Gosto de transformar ideias em sistemas úteis, com interfaces bonitas e funcionais.
 
@@ -26,7 +26,7 @@ Gosto de transformar ideias em sistemas úteis, com interfaces bonitas e funcion
 - 🌐 **WordPress** para criação de sites
 
 ### 📚 Em aprendizado
-- 🔧 C, C++, Java
+- 🔧 C++, C#, Java, JavaScript, Python
 - 🤖 Arduino (IDE e eletrônica básica)
 - 🌐 Noções de redes (Cisco)
 - 📉 Otimização de custos e automação
