@@ -8,7 +8,7 @@
 ## 🔧 Sobre mim
 
 Olá! Sou **Gabriel Coutinho**.  
-Atualmente, curso Ciência da Computação na UNICID, após ter concluído minha formação como Técnico em Informática pelo Senac.
+Atualmente, curso Ciência da Computação na UNIP, após ter concluído minha formação como Técnico em Informática pelo Senac.
 Sou apaixonado por tecnologia, desenvolvimento de sistemas, infraestrutura, hardware.  
 Gosto de transformar ideias em sistemas úteis, com interfaces bonitas e funcionais.
 
@@ -20,13 +20,13 @@ Gosto de transformar ideias em sistemas úteis, com interfaces bonitas e funcion
 - 💡 **Sistemas Operacionais**: Windows, Linux (Debian, Mint, Ubuntu)
 - ⚙️ **Ambientes Virtuais**: VirtualBox
 - 🖥️ **Editores/IDEs**: VS Code, Eclipse, VIM, PowerShell
-- 📦 **Full Stack**: HTML5, CSS3, JavaScript, Node.js, PHP
+- 📦 **Full Stack**: HTML5, CSS3, JavaScript, Node.js
 - 🖼 **Desktop Apps**: Electron, MongoDB, Mongoose, jsPDF
 - 🔌 **Banco de Dados**: MySQL, MongoDB
 - 🌐 **WordPress** para criação de sites
 
 ### 📚 Em aprendizado
-- 🔧 C++, C#, Java, JavaScript, Python
+- 🔧 Java, JavaScript, Python
 - 🤖 Arduino (IDE e eletrônica básica)
 - 🌐 Noções de redes (Cisco)
 - 📉 Otimização de custos e automação
